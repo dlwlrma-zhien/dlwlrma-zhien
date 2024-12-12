@@ -22,7 +22,10 @@
 <h4 align="left">📫 How to reach me</h4>
 2281874167@qq.com
 
-#### 🚧 My Todoist Stats: ⬇️👀
+<h4 align="left">📫 My personal blog</h4>
+https://blog.csdn.net/
+
+#### 🚧 The content that is also being learned ⬇️👀
 <details><summary><b>💡 more （about github❗）</b></summary>
 <hr></hr>
 ### 🔮 Platform & Tools
