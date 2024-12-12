@@ -14,13 +14,8 @@
 <strong>Check out my work below!</strong>Time I contributed this year: 🎉<img src="https://img.shields.io/badge/wakatime-2178hrs_30mins-blue?logo=wakatime&color=blue">🎉
 
 <h4 align="left">🔭 Check out what I'm currently working on Java</h4>
-- {{.StudyContentDescription}} - 👀
+努力，奋斗！！！ - 👀
 
-<h4 align="left">🌱 Check out my recent projects</h4>
-AI云社区交流平台
-- [AI云社区交流平台]
-() - 嘿，朋友们！快来瞧瞧咱这超厉害的 AI 云社区交流平台，它简直就是个无所不能的 “魔法盒”！只要你轻轻一点，各种大模型的奇妙成果就像变戏法一样瞬间呈现。不管是跟大模型畅聊各种话题，还是让它给你绘制超炫的图片，统统不在话下。这里就像是大模型的 “超级派对”，近百种本地和云端的大模型任你挑选、随意调用，你可以尽情地在这个 “模型大观园” 里探索。而且哦，这里还有超热闹的社区，大家能尽情交流心得、发表各种奇思妙想的评论，就像是在一个充满智慧和欢乐的数字集市里，每个人都能找到志同道合的伙伴，一起玩转大模型，开启一场超有趣的 AI 奇幻之旅！
-{{end}}
 <h4 align="left">⚡ Check out what I’m currently learning </h4>
 各位朋友，咱这有个 Java 世界的 “探索侠” 在此！我呀，目前正一头扎进 Java 那奇妙的天地里，主攻各种框架的使用和技术栈的熟悉。这就好比在一个超级大的 Java 游乐场里，那些框架就是各种超酷的游乐设施，我在 Spring 的大摆锤上感受灵活架构的刺激，在 redis 的蹦床上体验数据缓存的活力跳跃，顺着 MyBatis 的滑滑梯快速搞定数据访问。而技术栈呢，就像是游乐场里的秘密通道和隐藏关卡，我兴致勃勃地穿梭其中，熟悉着每一个角落的独特玩法，立志要把 Java 游乐场里的所有精彩都摸得门儿清，然后打造出属于自己的超炫 “代码乐园”，让大家都能来这里尽情玩耍！
 
