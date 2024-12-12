@@ -1,29 +1,31 @@
-<h1 align="center">Hi 👋, I'm {{.Name}} ⏱️</h1>
-<h3 align="center">{{.SelfDescription}}</h3>
-<h2 align="center"><em>🌟 {{.Motto}}<em> 💪</h2>
+<h1 align="center">Hi 👋, I'm dlwlrma-zhien ⏱️</h1>
+<h3 align="center">嘿，大家好！我是 dlwlrma-zhien，一个对 Java 爱得死心塌地的代码狂人。在我眼中，Java 就像是一座神秘而充满宝藏的编程城堡，我在里面乐此不疲地探索着每一个角落。
+我对新技术的热爱那可是如同猫咪对毛线球一般执着，只要有新玩意儿冒出来，我就像个好奇宝宝，非得把它研究个透彻才肯罢休。每次钻研新技术的时候，我感觉自己就像个在宇宙中探寻未知星球的宇航员，兴奋又专注，完全沉浸在代码的浩瀚星河里。我和 Java 之间的故事，大概就是一场永不停歇的浪漫冒险，我带着它在编程的世界里披荆斩棘，创造出一个又一个有趣的 “数字魔法”。</h3>
+<h2 align="center"><em>🌟 生于悦己，不为他人所困<em> 💪</h2>
 <p align="center">
-	<img src="https://github-readme-stats.vercel.app/api?username={{.GithubName}}&theme=dracula&show_icons=true" alt="stats loading failure" width="380" height="152" />
-	<img src="http://github-readme-streak-stats.herokuapp.com?user={{.GithubName}}&theme=dracula&hide_border=false" alt="streak stats loading failure" width="380" height="152"/>
+	<img src="https://github-readme-stats.vercel.app/api?username=dlwlrma-zhien&theme=dracula&show_icons=true" alt="stats loading failure" width="380" height="152" />
+	<img src="http://github-readme-streak-stats.herokuapp.com?user=dlwlrma-zhien&theme=dracula&hide_border=false" alt="streak stats loading failure" width="380" height="152"/>
 </p>
 
 <p align="center">
-	<a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username={{.GithubName}}" alt="profile loading failure" /></a>
+	<a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dlwlrma-zhien" alt="profile loading failure" /></a>
 </p>
 
 <strong>Check out my work below!</strong>Time I contributed this year: 🎉<img src="https://img.shields.io/badge/wakatime-2178hrs_30mins-blue?logo=wakatime&color=blue">🎉
 
-<h4 align="left">🔭 Check out what I'm currently working on {{.StudyContent}}</h4>
+<h4 align="left">🔭 Check out what I'm currently working on Java</h4>
 - {{.StudyContentDescription}} - 👀
 
 <h4 align="left">🌱 Check out my recent projects</h4>
-{{ range .RecentProjects -}}
-- [{{.Name}}]({{.URL}}) - {{.Description}}
+AI云社区交流平台
+- [AI云社区交流平台]
+() - 嘿，朋友们！快来瞧瞧咱这超厉害的 AI 云社区交流平台，它简直就是个无所不能的 “魔法盒”！只要你轻轻一点，各种大模型的奇妙成果就像变戏法一样瞬间呈现。不管是跟大模型畅聊各种话题，还是让它给你绘制超炫的图片，统统不在话下。这里就像是大模型的 “超级派对”，近百种本地和云端的大模型任你挑选、随意调用，你可以尽情地在这个 “模型大观园” 里探索。而且哦，这里还有超热闹的社区，大家能尽情交流心得、发表各种奇思妙想的评论，就像是在一个充满智慧和欢乐的数字集市里，每个人都能找到志同道合的伙伴，一起玩转大模型，开启一场超有趣的 AI 奇幻之旅！
 {{end}}
 <h4 align="left">⚡ Check out what I’m currently learning </h4>
-- {{ join .LearnTechAbility " And "}}
+各位朋友，咱这有个 Java 世界的 “探索侠” 在此！我呀，目前正一头扎进 Java 那奇妙的天地里，主攻各种框架的使用和技术栈的熟悉。这就好比在一个超级大的 Java 游乐场里，那些框架就是各种超酷的游乐设施，我在 Spring 的大摆锤上感受灵活架构的刺激，在 redis 的蹦床上体验数据缓存的活力跳跃，顺着 MyBatis 的滑滑梯快速搞定数据访问。而技术栈呢，就像是游乐场里的秘密通道和隐藏关卡，我兴致勃勃地穿梭其中，熟悉着每一个角落的独特玩法，立志要把 Java 游乐场里的所有精彩都摸得门儿清，然后打造出属于自己的超炫 “代码乐园”，让大家都能来这里尽情玩耍！
 
 <h4 align="left">📫 How to reach me</h4>
-- {{.Email}}
+2281874167@qq.com
 
 #### 🚧 My Todoist Stats: ⬇️👀
 <details><summary><b>💡 more （about github❗）</b></summary>
