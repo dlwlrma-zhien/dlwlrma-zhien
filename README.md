@@ -25,7 +25,7 @@
 <h4 align="left">📫 My personal blog</h4>
 https://blog.csdn.net/2301_76613040
 
-#### 🚧 The content that is also being learned ⬇️👀
+🚧 The content that is also being learned ⬇️👀
 <details><summary><b>💡 more （about github❗）</b></summary>
 <hr></hr>
 ### 🔮 Platform & Tools
