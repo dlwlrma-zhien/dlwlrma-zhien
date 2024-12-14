@@ -28,7 +28,7 @@ https://blog.csdn.net/2301_76613040
 🚧 The content that is also being learned ⬇️👀
 <details><summary><b>💡 more （about github❗）</b></summary>
 <hr></hr>
-### 🔮 Platform & Tools
+🔮 Platform & Tools
 
 [![](https://img.shields.io/badge/mac%20os-292e33?style=for-the-badge&logo=apple&logoColor=ffffff)](https://www.apple.com/macos/big-sur/)
 [![](https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch-linux&logoColor=fff&style=for-the-badge)](https://archlinux.org/)
@@ -73,7 +73,7 @@ https://blog.csdn.net/2301_76613040
 [![](https://img.shields.io/badge/-Node.js-43853d?style=flat-square&logo=node.js&logoColor=ffffff)](https://nodejs.org/)
 
 
-### 🗃️ Code & Skills
+ 🗃️ Code & Skills
 
 ![](https://skillicons.dev/icons?i=kubernetes,grafana,prometheus,docker,linux,ansible,cloudflare,css,github,go,md)
 [![](https://img.shields.io/badge/-WireGuard-88171A?style=flat-square&logo=wireguard&logoColor=ffffff)](https://www.wireguard.com/)
