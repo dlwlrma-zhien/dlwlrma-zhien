@@ -8,7 +8,8 @@
 </p>
 
 <p align="center">
-	<a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dlwlrma-zhien" alt="profile loading failure" /></a>
+<!-- 	<a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dlwlrma-zhien" alt="profile loading failure" /></a> -->
+	<a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dlwlrma-zhien&theme=onedark" alt="profile loading failure"/>
 </p>
 
 <strong>Check out my work below!</strong>Time I contributed this year: 🎉<img src="https://img.shields.io/badge/wakatime-2178hrs_30mins-blue?logo=wakatime&color=blue">🎉
